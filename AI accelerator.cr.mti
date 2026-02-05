@@ -1,0 +1,150 @@
+{C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/conv_layer/sys_array.v} {1 {vlog -work work -stats=none {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/conv_layer/sys_array.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sys_array
+
+Top level modules:
+	sys_array
+
+} {} {}} {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/conv_layer/conv.v} {1 {vlog -work work -stats=none {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/conv_layer/conv.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module conv
+
+Top level modules:
+	conv
+
+} {} {}} {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/batch_norm/scl_sft.v} {1 {vlog -work work -stats=none {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/batch_norm/scl_sft.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module scl_sft
+
+Top level modules:
+	scl_sft
+
+} {} {}} {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/batch_norm/batchnorm.v} {1 {vlog -work work -stats=none {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/batch_norm/batchnorm.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module batchnorm
+
+Top level modules:
+	batchnorm
+
+} {} {}} {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/conv_layer/conv_layer.v} {1 {vlog -work work -stats=none {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/conv_layer/conv_layer.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module conv_layer
+
+Top level modules:
+	conv_layer
+
+} {} {}} {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/conv_layer/booth_multiplier.v} {1 {vlog -work work -stats=none {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/conv_layer/booth_multiplier.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module booth_multiplier
+
+Top level modules:
+	booth_multiplier
+
+} {} {}} {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/conv_layer/booth_submultiplier.v} {1 {vlog -work work -stats=none {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/conv_layer/booth_submultiplier.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module booth_submultiplier
+
+Top level modules:
+	booth_submultiplier
+
+} {} {}} {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/padding_layer/tb_padding.v} {1 {vlog -work work -stats=none {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/padding_layer/tb_padding.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_padding_top
+
+Top level modules:
+	tb_padding_top
+
+} {} {}} {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/padding_layer/padding_reg.v} {1 {vlog -work work -stats=none {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/padding_layer/padding_reg.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module padding_reg
+
+Top level modules:
+	padding_reg
+
+} {} {}} {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/conv_layer/PE.v} {1 {vlog -work work -stats=none {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/conv_layer/PE.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PE
+
+Top level modules:
+	PE
+
+} {} {}} {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/batch_norm/qadd.v} {1 {vlog -work work -stats=none {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/batch_norm/qadd.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module qadd
+
+Top level modules:
+	qadd
+
+} {} {}} {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/batch_norm/qdiv.v} {1 {vlog -work work -stats=none {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/batch_norm/qdiv.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module qdiv
+
+Top level modules:
+	qdiv
+
+} {} {}} {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/conv_layer/lib.v} {1 {vlog -work work -stats=none {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/conv_layer/lib.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module xor2
+-- Compiling module fa
+-- Compiling module eight_bit_adder_subtractor
+
+Top level modules:
+	eight_bit_adder_subtractor
+
+} {} {}} {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/padding_layer/tb_padding_top.v} {1 {vlog -work work -stats=none {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/padding_layer/tb_padding_top.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_padding_top
+
+Top level modules:
+	tb_padding_top
+
+} {} {}} {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/conv_layer/relu.v} {1 {vlog -work work -stats=none {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/conv_layer/relu.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module relu
+
+Top level modules:
+	relu
+
+} {} {}} {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/padding_layer/padding.v} {1 {vlog -work work -stats=none {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/padding_layer/padding.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module padding
+
+Top level modules:
+	padding
+
+} {} {}} {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/padding_layer/counter.v} {1 {vlog -work work -stats=none {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/padding_layer/counter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/maxpooling/big_mp.v} {1 {vlog -work work -stats=none {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/maxpooling/big_mp.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module big_mp
+
+Top level modules:
+	big_mp
+
+} {} {}} {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/maxpooling/maxpooling.v} {1 {vlog -work work -stats=none {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/maxpooling/maxpooling.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module maxpooling
+
+Top level modules:
+	maxpooling
+
+} {} {}} {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/padding_layer/padding_top.v} {1 {vlog -work work -stats=none {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/padding_layer/padding_top.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module padding_top
+
+Top level modules:
+	padding_top
+
+} {} {}} {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/top.v} {1 {vlog -work work -stats=none {C:/Users/patron/Desktop/Final Project/CNN_YOLO_AI_accelerator-main/top.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module cnn_top
+
+Top level modules:
+	cnn_top
+
+} {} {}}
